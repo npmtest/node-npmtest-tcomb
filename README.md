@@ -1,6 +1,6 @@
 # npmtest-tcomb
 
-#### test coverage for  [tcomb (v3.2.20)](https://github.com/gcanti/tcomb)  [![npm package](https://img.shields.io/npm/v/npmtest-tcomb.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tcomb) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tcomb.svg)](https://travis-ci.org/npmtest/node-npmtest-tcomb)
+#### basic test coverage for  [tcomb (v3.2.20)](https://github.com/gcanti/tcomb)  [![npm package](https://img.shields.io/npm/v/npmtest-tcomb.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tcomb) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tcomb.svg)](https://travis-ci.org/npmtest/node-npmtest-tcomb)
 
 #### Type checking and DDD for JavaScript
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-tcomb/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-tcomb/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-tcomb/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-tcomb/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-tcomb/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-tcomb/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-tcomb/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-tcomb/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-tcomb/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-tcomb/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-tcomb/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-tcomb/build/coverage.html/index.html)
 
@@ -107,7 +107,8 @@
         "store"
     ],
     "typings": "index.d.ts",
-    "version": "3.2.20"
+    "version": "3.2.20",
+    "bin": {}
 }
 ```
 
